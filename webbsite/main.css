@@ -1,0 +1,76 @@
+
+	
+
+
+
+	div{
+
+		margin:30px 2px 0 25px ;
+
+
+		border:solid;
+
+		padding:10px 10px 10px 10px;
+
+		background-color: white;
+	}
+
+	button{
+
+		/*border-radius: 7px; */
+		margin-bottom:10px;
+		border:transparent; 
+		color:#808080;
+	}
+
+	p{
+
+		font-size:150%;
+		font-weight: bolder;
+		margin:2px 2px 2px 2px;
+	}
+
+
+	body{
+
+		zoom:280%;
+		background-color:
+#16291e
+; 
+	}
+
+ input:hover{
+
+ 	border-radius: 2px ;
+
+ } 
+
+#sign:hover{
+ 
+
+
+
+ }
+
+button:active{
+
+	border-style:solid;
+
+	
+
+	}
+
+
+button:hover{
+
+		color:black;
+}
+
+
+#checkbox{
+
+	margin-top: 5px;
+	margin-left: 7px;
+	position:absolute;
+
+}
